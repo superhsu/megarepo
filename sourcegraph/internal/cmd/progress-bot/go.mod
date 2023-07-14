@@ -1,6 +1,6 @@
 module progress-bot
 
-go 1.16
+go 1.19
 
 require (
 	cloud.google.com/go/compute v1.1.0 // indirect
